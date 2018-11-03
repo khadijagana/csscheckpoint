@@ -1,0 +1,52 @@
+
+
+span.b {
+     display: inline-block;
+    height: 350px;
+    width: 48%;
+    padding:30px;
+     background: yellowgreen
+}
+span.c {
+    display: inline-block;
+    height: 350px;
+    width: 48%;
+    padding: 30px;
+    background: yellow 
+}
+span.b:hover  {
+    outline: 6px solid black;
+    outline-offset: -6px;
+transition: outline .5s;}
+
+
+span.c:hover  {
+    outline: 6px solid black;
+    outline-offset: -6px;
+transition: outline .5s;}
+
+
+#para{
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+#para2{
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+#para3{
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+#para4{
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+.z{
+   margin:auto;
+   width:80% 
+}
